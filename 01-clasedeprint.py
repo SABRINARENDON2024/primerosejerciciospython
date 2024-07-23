@@ -1,0 +1,32 @@
+print("hola mundo")
+print("este es un cambio")
+print(100+100)
+print(200-55)
+print ('150+10')
+#print ("esta linea no quiero que se ejecute")
+'''print ("esta linea no quiero que se ejecute")
+print ("esta linea no quiero que se ejecute")
+print ("esta linea no quiero que se ejecute")
+print ("esta linea no quiero que se ejecute")'''
+
+#print ("esta linea no quiero que se ejecute")
+#print ("esta linea no quiero que se ejecute")
+#print ("esta linea no quiero que se ejecute")
+#print ("esta linea no quiero que se ejecute")
+#print ("esta linea no quiero que se ejecute")}
+
+print ('Hola ' + 'Grace')
+print ('Hola ' +'Grace')
+print ('Hola ' +''+'Grace')
+#print ("Me llamo \"Johana\"")
+print ("Esta es una linea\nY esta es otra linea")
+print ("\tEsta sera la linea tabulada")
+
+print("me encanta estudiar python")
+print("estudiar con python total es super divertido")
+print(500+55)
+#print("esta linea no quiero que se ejecute")
+print("linea 1\n" "linea 2\n" "linea 3\n")
+print("A\t" "B\t" "C\t")
+print("D\t" "E\t" "F\t")
+print("G\t" "H\t" "I\t")
